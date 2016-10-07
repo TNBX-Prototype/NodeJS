@@ -1,0 +1,19 @@
+{
+  "name": "ownership",
+  "version": "1.0.0",
+  "description": "detail ownership",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umesh",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "html-entities": "^1.2.0",
+    "solc": "^0.4.2",
+    "web3": "^0.17.0-beta"
+  }
+}
